@@ -79,5 +79,4 @@ Enter second number: 5
 Result: 60.00
 
 
-If you want, I can also give you an extended version that supports multiple operations in a single run like a real calculator.
-Do you want me to make that version?
+
