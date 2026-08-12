@@ -65,18 +65,5 @@ public class Calculator {
 }
 
 
-Features
-✅ Handles addition, subtraction, multiplication, division
-✅ Prevents division by zero
-✅ Validates numeric input
-✅ Uses switch-case for clarity
-✅ Clean and user-friendly output
-
-Example Run
-Enter first number: 12
-Enter operator (+, -, *, /): *
-Enter second number: 5
-Result: 60.00
-
 
 
